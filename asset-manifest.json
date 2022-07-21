@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/performance-tracker/static/css/main.d85bf4df.css",
+    "main.js": "/performance-tracker/static/js/main.4f85744f.js",
+    "static/js/787.20262e79.chunk.js": "/performance-tracker/static/js/787.20262e79.chunk.js",
+    "index.html": "/performance-tracker/index.html",
+    "main.d85bf4df.css.map": "/performance-tracker/static/css/main.d85bf4df.css.map",
+    "main.4f85744f.js.map": "/performance-tracker/static/js/main.4f85744f.js.map",
+    "787.20262e79.chunk.js.map": "/performance-tracker/static/js/787.20262e79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85bf4df.css",
+    "static/js/main.4f85744f.js"
+  ]
+}
