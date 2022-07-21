@@ -1,0 +1,13 @@
+.update-right{
+    padding-top: 0;
+}
+.right-side .bottom_bottom{
+    border-bottom: "1px solid #e0e0e0";
+}
+
+.cancel-form{
+    position: absolute;
+    right: 125px;
+    z-index: 25;
+    top:40px;
+}

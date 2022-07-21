@@ -1,0 +1,6 @@
+.logoutPos{
+    position: absolute;
+    right: 125px;
+    top: 11px;
+    z-index: 22;
+}

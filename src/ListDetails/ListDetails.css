@@ -1,0 +1,36 @@
+.employee-table{
+    width: 100%;
+}
+.employee-table tbody{
+    min-height: 500px;
+}
+
+.employee-table tr th{
+    text-align: left;
+    background-color:rgb(218, 218, 218);
+    padding: 10px 20px;
+    height: 47px;
+}
+
+.outer-border{
+    border: 1px solid rgb(218, 218, 218);
+}
+
+.employee-table tr td{
+    text-align: left;
+    height: 47px;
+    padding: 20px;
+}
+.no-records{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.icon-download{
+    position: relative;
+    left: 10px;
+    top:7px;
+}
+.search-bar{
+    font-size: 20;
+}
